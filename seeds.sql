@@ -9,6 +9,6 @@ VALUES ('Financial Analyst', 65000, 1),
        ('Quality Engineer', 75000, 3);
 
 INSERT INTO employees (first_name, last_name, role_id)
-VALUES  ('Michael', 'Scott', 1),
-        ('Dwight', 'Schurte', 2),
-        ('Jim', 'Halpert', 3);
+VALUES  ('Michael', 'Scott', 2), 
+        ('Dwight', 'Schurte', 3), 
+        ('Jim', 'Halpert', 4);
