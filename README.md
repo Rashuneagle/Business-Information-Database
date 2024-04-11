@@ -1,8 +1,7 @@
 # Business-Information-Database
 
 ## Description
-This application can manage your companies employee, departments, and role database. It allows you to view all of each, update each and change your employee role. Also create each.
-
+Welcome to our comprehensive employee management application! With our platform, you can effortlessly handle your company's employee roster, departmental structure, and roles database. Seamlessly view, update, and create entries for employees, departments, and roles. Plus, our intuitive interface makes it easy to modify employee roles, ensuring smooth organizational operations. Streamline your management tasks with our powerful solution.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
